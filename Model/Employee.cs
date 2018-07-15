@@ -1,4 +1,7 @@
-class Employee{
-	string Id {get; set;}
-	string Name {get; set;}
+public class Employee{
+	public string Id {get; set;}
+	public string Name {get; set;}
+	public string PhoneNo {get; set;}
+	
+	public Employee(){}
 }
