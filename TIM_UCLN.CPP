@@ -23,3 +23,4 @@ int main()
    int result = GCD(m,n);
    cout << "The GCD of two numbers is: " << result << endl;  
 }
+//hjhjhjhj
